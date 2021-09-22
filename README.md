@@ -1,6 +1,6 @@
 ## Hello! I'm Defalt!
 
-![Defalt GitHub stats](https://github-readme-stats.vercel.app/api?username=Defalt&show_icons=true&theme=gruvbox)
+![Defalt GitHub stats](https://github-readme-stats.vercel.app/api?username=Defalt&show_icons=true&theme=tokyonight)
 
 ## Languages i know
 <div style="display: inline_block"><br/>
